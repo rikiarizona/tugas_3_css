@@ -1,0 +1,32 @@
+h4 {
+    font-size: 23px;
+}
+
+p {
+  background-color: silver;
+  outline: rgb(170, 170, 170);
+  outline-style: solid;
+  outline-width: 1px;
+}
+
+p.pertama {
+  background-color: orange;
+}
+
+p.kedua {
+  background-color: blue;
+  color: white;
+}
+
+p.ketiga {
+  font-family: Arial;
+  font-size: 19px;
+  background-color: white;
+}
+
+p.keempat {
+  background-color: rgb(117, 115, 115);
+  font-weight: bold;
+  font-family: "Times New Roman";
+  font-size: 23px;
+}
